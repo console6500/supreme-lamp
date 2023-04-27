@@ -8,6 +8,6 @@ public class App
 {
     public static String main()
     {
-        return "Hello, Github Actions!";
+        return "Hello, GitHub Actions!";
     }
 }

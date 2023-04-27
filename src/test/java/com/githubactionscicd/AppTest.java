@@ -1,4 +1,4 @@
-package com.learningjenkins;
+package com.githubactionscicd;
 
 import static org.junit.Assert.assertEquals;
 
